@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zachary Patrone
-- 👀 I’m interested in backend development using Python, Java, or C/C++.
+- 👀 I’m interested in backend development using Python, Java, or C/C++/C#.
 - 🌱 I’m currently in my last semester at San Diego State and will be graduating in May 2022. 
 
 <!---
