@@ -1,6 +1,17 @@
-- 👋 Hi, I’m Zachary Patrone
-- 👀 I’m interested in backend development using Python, Java, or C/C++/C#.
-- 🌱 I’m currently in my last semester at San Diego State and will be graduating in May 2022. 
+👋 Hi, my name is Zachary
+
+👨‍💻 Interested in Backend Development, utilizing Python and AWS for cloud applications and web development 
+
+🎓 SDSU Graduate with a Bachelor's in Management Information Systems and a minor in Computer Science May 2022)
+
+📍 Irvine, CA
+🏠 Thousand Oaks, CA 
+
+📚 Currently working towards the AWS Cloud Practitioner Certification and continuing to improve my skills with Python. 
+
+💪 Python, AWS, HTML/CSS, C#, Java
+
+🤝 I invite you to connect
 
 <!---
 zacharypatrone/zacharypatrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
