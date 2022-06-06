@@ -2,7 +2,7 @@
 
 👨‍💻 Interested in Backend Development, utilizing Python and AWS for cloud applications and web development 
 
-🎓 SDSU Graduate with a Bachelor's in Management Information Systems and a minor in Computer Science May 2022
+🎓 SDSU Graduate with a Bachelor's in Management Information Systems and a minor in Computer Science (May 2022)
 
 📍 Irvine, CA
 🏠 Thousand Oaks, CA 
