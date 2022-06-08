@@ -1,13 +1,13 @@
 👋 Hi, my name is Zachary
 
-👨‍💻 Interested in Backend Development, utilizing Python and AWS for cloud applications and web development 
+👨‍💻 Interested in Frontend and Backend Development
 
-🎓 SDSU Graduate with a Bachelor's in Management Information Systems and a minor in Computer Science (May 2022)
+🎓 Bachelor's in Management Information Systems and a minor in Computer Science (May 2022)
 
-📍 Irvine, CA
+📍   Long Island, NY for the summer then Irvine, CA
 🏠 Thousand Oaks, CA 
 
-📚 Currently working towards the AWS Cloud Practitioner Certification and continuing to improve my skills with Python. 
+📚 Currently working to master my skills with Python and learning Django to improve my web development skills.
 
 💪 Python, AWS, HTML/CSS, C#, Java
 
