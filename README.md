@@ -2,7 +2,7 @@
 
 👨‍💻 Interested in Frontend and Backend Development
 
-🎓 Bachelor's in Management Information Systems and a minor in Computer Science (May 2022)
+🎓 Bachelor's in Information Systems and a minor in Computer Science (May 2022)
 
 📍   Long Island, NY for the summer then Irvine, CA
 🏠 Thousand Oaks, CA 
