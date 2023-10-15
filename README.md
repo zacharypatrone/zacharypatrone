@@ -1,15 +1,14 @@
 👋 Hi, my name is Zachary
 
-👨‍💻 Interested in Frontend and Backend Development
+👨‍💻 Interested in IT and Data Analytics
 
 🎓 Bachelor's in Information Systems and a minor in Computer Science (May 2022)
 
-📍   Long Island, NY for the summer then Irvine, CA
-🏠 Thousand Oaks, CA 
+📍 Irvine, CA
 
-📚 Currently working to master my skills with Python and learning Django to improve my web development skills.
+📚 Currently working towards my Network+ certification
 
-💪 Python, AWS, HTML/CSS, C#, Java
+💪 Python, SQL, Tableau, AWS, MS Office
 
 🤝 I invite you to connect
 
